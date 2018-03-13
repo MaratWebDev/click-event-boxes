@@ -1,21 +1,6 @@
- .output ul {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 10px;
-  }
-
-  .output li {
-    /* padding: 5px; */
-    list-style: none;
-    height: 40px;
-    background-color: lightgrey;
-    color: #02111B;
-    border: 2px solid #02111B;
-    padding: 5px;
-  }
-
-  select {
-    padding: 10px;
-    font-family: sans-serif;
-    
-  }
+div {
+  background-color: red;
+  height: 100px;
+  width: 25%;
+  float: left;
+}
